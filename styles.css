@@ -1,0 +1,33 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Fjalla One", serif;
+    color: #000000;
+    background-color: #B4FCD9
+}
+
+div {
+    background-color: #FFFFFF;
+    border-style: double;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    border-style: double;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-size: small;
